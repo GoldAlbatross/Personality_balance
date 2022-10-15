@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Personality</string>
+    <string name="top_phrase_01">Fear nothing</string>
+    <string name="phrase_01">Go back</string>
+    <string name="phrase_02">Menu</string>
+    <string name="phrase_03">Go learning</string>
+    <string name="phrase_04">Statistic</string>
+    <string name="happy">I felt really happy</string>
+    <string name="help">help the ones who need help.</string>
+    <string name="study">Add a little bit of study</string>
+    <string name="bit_of_fun">Add a little bit of fun</string>
+    <string name="goal">one step to your goal</string>
+    <string name="helth">one step to your helth</string>
+</resources>
